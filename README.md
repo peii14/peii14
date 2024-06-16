@@ -8,7 +8,7 @@ I am currently pursuing a double degree program in Cybersecurity and Quantum Com
 
 🎓 Education
 
-- Cybersecurity Master at ELTE Budapest & Turku University
+- Master at ELTE Budapest & Turku University
 - Double Degree Program in Cybersecurity and Quantum Computation
 - Institut Teknologi Sepuluh Nopember (ITS) & INSA Lyon
 - Bachelor of Informatics

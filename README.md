@@ -20,6 +20,7 @@ I am currently pursuing a double degree program in Cybersecurity and Quantum Com
 -	💹 Decentralized Finance (DeFi)
 -	🔗 Blockchain Technology
 -	🤖 Machine Learning
+- 🔐 Bug Bounty
 
 🛠 Languages and Tools
 

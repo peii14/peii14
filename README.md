@@ -1,6 +1,6 @@
 ## Hi there 👋, Gayuh Kautaman
 
-Welcome to my GitHub profile! I am a passionate software engineer and researcher specializing in cybersecurity, decentralized finance and  quantum computation as minors. My work focuses on optimizing transactional privacy and regulatory compliance in decentralized finance using machine learning and blockchain technologies.
+Welcome to my GitHub profile! I am a passionate software engineer and researcher specializing in cybersecurity, decentralized finance and  quantum computation as minors. My work focuses on optimizing transactional privacy and regulatory compliance in decentralized finance using machine learning and blockchain technologies. Visit my profile  [Gayuh Kautaman](https://www.gayuh-kautaman.com)
 
 🌟 About Me
 

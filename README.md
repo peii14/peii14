@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I am a passionate software engineer and researcher specializing in cybersecurity, decentralized finance and  quantum computation as minors. My work focuses on optimizing transactional privacy and regulatory compliance in decentralized finance using machine learning and blockchain technologies. Visit my profile  [Gayuh Kautaman](https://www.gayuh-kautaman.com)
 
-
 🌟 About Me
 
 I am currently pursuing a double degree program in Cybersecurity at ELTE Budapest and Turku University. I am also part of the European Institute of Technology program, receiving financial support from the European Union. My academic and professional journey has equipped me with a robust skill set in blockchain technology, machine learning, and full-stack web development.

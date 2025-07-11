@@ -16,7 +16,6 @@ I am currently pursuing a double degree program in Cybersecurity at ELTE Budapes
 🔬 Research Interests
 
 - 🔒 Cybersecurity
--	🔭 Quantum Computation
 -	💹 Decentralized Finance (DeFi)
 -	🔗 Blockchain Technology
 -	🤖 Machine Learning
